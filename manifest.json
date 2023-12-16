@@ -3,7 +3,7 @@
   "short_name": "PapaNdav.Blog",
   "start_url": "https://www.papandav.site/",
   "display": "standalone",
-  "background_color": "#fff",
+  "background_color": "transparent",
   "theme_color": "#f24a4a",
   "description": "Jelajahi Berita Terbaru Teknologi, Lifestyle, Olahraga, Otomotif, Kuliner, Travel, Tips Serta Info Menarik Lainnya",
   "icons": [{
