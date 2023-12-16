@@ -3,43 +3,43 @@
   "short_name": "PapaNdav.Blog",
   "start_url": "https://www.papandav.site/",
   "display": "standalone",
-  "background_color": "transparent",
+  "background_color": "#fff",
   "theme_color": "#f24a4a",
   "description": "Jelajahi Berita Terbaru Teknologi, Lifestyle, Olahraga, Otomotif, Kuliner, Travel, Tips Serta Info Menarik Lainnya",
   "icons": [{
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMc2xaw0M9nEHrn3DxntggHNOKXmfbqc826AH99Rm9sp2RVu3FCFvrTrh65qEhvMYsBIADj0QZLd64__bCR9ehznw2iQDE6c7H02xkIYAvyaYAGJwS_FC3EtSQaq5JTnENzWvDPFWlH2C_DisJ3CM4dqBfy7ypK1lw_3ZvWJUOUWG8wlwX0Rk6TTzhV1Hz/s32/pn-blog-favicon-32x32.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ86C1jl1_6V1Fd2exjhKeGVsrXSuoIbQj3ONQb5cTnmnYnqrE29mrBTSO84tEPY0rcuxJfjgtulCY6e2Tx1qOFMZz6DOf7b6Z1DoDBSDrqOfwnvf1TIpU7yf_Fly2ZBsGXFirPLgks7mfWGUYdEyV31Pxz4VpmhpJs1rs597AyzyRrAcBtspZubDRCTwR/s32/favicon-32x32.png",
     "sizes": "32x32",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIEISLRwn67yQycOVecEtwVeQtA8Xfm67dOgFnAK48bjpQiegEgRtbl-2hcxrIO7a7wZuh7ZIUOvm_oOAfzndo9jQklu4um2TdPs_DH87aYyuPiG6WDqQxN7fQJluYCKsRLGbIRz_e9USZjLitmBGqDjn2-g0EMsxpypJP4uOoUKCQAB-cmahrRqZ0zTO6/s48/pn-blog-android-icon-48x48.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf9E6YtR0O1RwYL7ckXM3zIxvtpd7OBtW-gafvg3EBuGKgbSoBTTEz0zV-__7ObMgmit3ZrfStGlOf8OncaEaVrGcleVWz94X7IPBVsSMziE_W2uGc0xRFMn3JB8EhI12bz7lV9DZcuVQiKNGh4TyFWd2DcXUO2zQ_8E9Zk_CO6cHMDnkxrQg83T92-WQX/s48/android-icon-48x48.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPmhaBIpVW1RCpGHeJIYu-GKWI4IKyP80Rv8s9aR37XWwGIYYAGo1hgDxrXwDxmSN-7yczNBQPj6A4iU1louvg9YLRen0kieW-BI8KSdlU6cupusQJkZIrjiuzLGTDzlJU6MkZeDN1TarvsqXRzIZK5e5ODUhA1K7iiNjm1HN1_53E4pl6jzBn2eK3HnWZ/s72/pn-blog-android-icon-72x72.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikQUAyayWBFz5Bwv44NivvNQ8GgtJ31EaEkYoZDPaiorhC1EFydUISCpzSkS0-3ZPYMf_W-XeFXpGXOuaQ2CPq6zL4OsXAkyeCoRnKROpglbtq5YE_rOuWkoK4ZWCr7ygE9_oANYJQ0mQiEgF6DMON2zcQXtfNaNamsUc94F5K-LK0X9FKKYys2TqveQBW/s72/android-icon-72x72.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEoXbEqqwUYuYWGaxEZgdCoeOQKu0r3kDrAeaHgHfPUhyI03vAbiPrZqOZOctwTjbU0xLqRlwQ6dz4MA-hcpnJVVlN2vgn_0Tuec88B_Z8jqTxdIFXdZl8r9mP8YaP67mdoNRG3KkU9BuYSkIlSPmOzlUVIggSXrROBNLAVjLRD-LOopaAoKQMplDeK0V5/s96/pn-blog-android-icon-96x96.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHwk7n0Pw99BjvzWEkuftvEwhieL8q5eMCXbbemG128_-PbFDsnB00OuNL8Vf2ACpx9qvjVbgIrEBiBeKEK4egCW080PMvnJsULCbymMl9l9bCsosFj-UQPkVzqePy9sTgqNNOo94bV71a_2eyPtJxfbZAcDnkl2y25Q2PIH4WN_dsM9Y0kgZyLeSB7ieB/s96/android-icon-96x96.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2kHfunfxjZZ0hFXibF79gb6E5vaK9pF0uMOIiE6huNtrAOMKBFhLEQOc9szxBovY72CeYt3ef8Cmw1AMQrUsC6hBtF9ynMhOo5CpPKJdork1XmVhZXOzOX5hTS2iBrzeyilKU3Hq_ubodSnFfqTSfwNlGQ7pOYujsq4tCqCd-Qzxs7EH5ekVSC_AlFwbF/s144/pn-blog-android-icon-144x144.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJslu_aMWMH9-by__k7kh6jnzE7QY6NU0sHyF-J1i4aELHLc72DY1BxHTYGYZhP_HzaFjiTT85rVKHlHn2JmIdcYO2mIPTbgtn6uiZDM7f5RMEgmO-kqQVr8VhOhmvqY2IwptblhGsYk7EMis7XZt7YIJFFudk70JvBIyxdqVXrGEUMx-mQWkcLLG8Eygc/s144/android-icon-144x144.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE1KIDCpNWLrwzvz0TBmKqtgpSXpvm8g8fjk6XGmo9pjQ0Sj1Au1ohpo9RjfPIBgUfutsg1x83g2KPofCkmy-y0F40BNdUxExMfxXnjlnjyiE4zA0VUmdu-ISbnGUXfAQn7NwcbyCPBDbmdcyA4nPMQIrD_UkaJRlAikwv1TnIK69LH6w4Q7TVsRg2PnTV/s168/pn-blog-apple-icon-168x168.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdlnbQTIcjIS5uh0AAUUzLS1rgjeOHzpfRAQX0tG7euvT_fwfzRJ2vNSL2ZBwz19DSLZftakd3BPQF9v8GNt0bXLxvaVD4DrcscbQKi_zg9YmKgN06T0axkwCFyCC4uKjASFKSdMBB-Qv7roGilDyykbRDWmgob_sD57Atdjgeee1LuL0fPg_cee-GieTk/s168/android-chrome-168x168.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEga2Z4xrEh05AeYUJ8C3jn-_o-vTUxL5yEM4Bu1kOlgDmo96xI3oKoJDHFupCidUQ1FjWYw-R6c727h3wFMXEUkkw8jxRCOotumv-O3B6tU4NlMHhYlnwyUcZBIvqZ8YUzW_Vr8EU69MnXvPPbc3PDtsWpifNSGRVELPD-md7YJ7XKrVCa3lKlLTaI4miwh/s180/pn-blog-apple-icon-180x180.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHDUJxOIykTxlKIfOZxJLlIGGVKVYK2v1v1vuphEsKR8M3pPKkppv3g6MF2Hw3j-0p5pRtT6_qOM62zTMT2elPwcymJyP0nTvzSxMpnAXmP1eKpBOCzZxbAwP5WV5iXZGqtnC-VnAPmkH5pAGsI1Zdj3u_TurJpwS9_n_Cy6wzZCrvDmvtdzbtDN4zOD_u/s180/apple-icon-180x180.png",
     "sizes": "180x180",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4aAU6Dd0DQhoVNKUFGr0HnsfUOoeQmI_2pX04IvWWR0hD76dyJH1NLCuI6Kcj0zaXjNV8KNANIaNhzGnHWFftxF5-qDhj23M2EwfzMGFeJDMz-m5kQoVNcdFUBcP4CMUL1RiT-l6YMA89Jz5OjLvt0351c3WEFJv21taE9nVI1MxJoi-2Cdpz5_S0uU90/s192/android-icon-192x192.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibMo9NIzF2NpCCmtEzc1Lw9pbnyFvJVuRCOZbOCNtrvWDgveBYjsZbAVpB3-ZQ0s3NQg2ZmwgwfISO7HjrIX-A6dw8dCxQsbvubylHEX0BScdmUb7skoAZVng8SHJRtVtK2M0RkSR3_21SOUJ1HgpACZuFFzQ2VbjENuHAHquva38E3FWbi3wbLY2FKwp4/s192/android-icon-192x192.png",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPB6JjQe9XFRwMSMms6XV5OMxgvvufOyq8k3Aw9q9C5w164z8oJY5ShEpVXkKc4SWX7MkRqzpxmVq1wDylwY530OyjWOtu6AU_mS0FnQFY62EX2gDIpVY27kLtY0x4UbaJTtJy_ndSgKiHyhBkpbl_7YGTRklOei3pimoNc__yAf3cVT8VX2hc0I_AMPfd/s512/pn-blog-ms-icon-512x512.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqtWK6tFjh_UD76eE23tBWN3goP-Ri-dGJx3vq383Q-ZEt-XfyEDpwsZBYvx81AHwcS8vje3AZuMmHSuwdDBd-VbmVOEiE6brunVJHqYcQItcMXrjGhQ0gqyfZ_psWSEqEWStCVp1L844w2qAeNW9T2wsX6psfEUWYWBXk2UKFZUC_7EKb-v33DfLERiwu/s512/ms-icon-512x512.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
